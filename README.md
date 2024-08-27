@@ -14,7 +14,8 @@ A criptografia segue seguintes regras:
 * A letra "a" é convertida para "ai"
 * A letra "o" é convertida para "ober"
 * A letra "u" é convertida para "ufat"
-* 
+
+  
 ## 👨🏽‍💻 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
